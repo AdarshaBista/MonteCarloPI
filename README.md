@@ -8,4 +8,4 @@ Monte Carlo method to estimate PI. Details for the process can be found [here](h
 
 ## Screenshots
 
-<img height="480px" src="Screenshots/1.png">
+<img height="480px" src="Demo/demo.gif">
